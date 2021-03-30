@@ -1,0 +1,6 @@
+.process-img ul li:nth-child(1) .fas::after {
+    background-color: #148e14;
+}
+.process-img ul li:nth-child(1) .fas{
+    background:#148e14;
+}
